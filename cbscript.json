@@ -7,5 +7,5 @@
   "ostype": "linux\/unix",
   "timeout": 60000000,
   "type": "APPLICATION",
-  "version": "2.1.0.1"
+  "version": "2.1.0.1-ver0.1"
 }]
