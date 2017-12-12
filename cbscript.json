@@ -1,0 +1,11 @@
+[{
+  "command": "prepare.sh",
+  "execmode": 0,
+  "filename": "icp-prepareGlusterFS-2.1.zip",
+  "location": "\/tmp\/icp-GlusterFS\/boot",
+  "name": "icp-prepareGlusterFS",
+  "ostype": "linux\/unix",
+  "timeout": 60000000,
+  "type": "APPLICATION",
+  "version": "2.1.0.1"
+}]
