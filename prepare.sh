@@ -9,4 +9,4 @@ sudo modprobe dm_thin_pool
 
 sudo wipefs --all --force /dev/sdd
 
-sudo echo "dm_thin_pool" | tee -a /etc/modules-load.d/dm_thin_pool.conf
+echo "dm_thin_pool" | sudo tee -a /etc/modules-load.d/dm_thin_pool.conf
